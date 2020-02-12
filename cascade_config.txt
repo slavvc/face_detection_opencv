@@ -1,0 +1,14 @@
+# cascade data
+./data/cascade.xml
+# type
+scale
+# min window size
+75
+# max window size
+130
+# step or scale
+1.5
+# base
+24
+# neighbors
+2

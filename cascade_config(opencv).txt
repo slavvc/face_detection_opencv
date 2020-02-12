@@ -1,0 +1,14 @@
+# cascade data
+./data/lbpcascade_frontalface.xml
+# type
+scale
+# min window size
+70
+# max window size
+160
+# step or scale
+1.884
+# base
+24
+# neighbors
+1
