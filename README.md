@@ -31,3 +31,6 @@
     -xml - файл с данными о лицах
     
     -config - файл настроек
+
+данные для оценки
+http://arma.sourceforge.net/chokepoint/
