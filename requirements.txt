@@ -3,3 +3,5 @@ aiohttp
 Pillow
 imageio
 opencv-contrib-python
+lxml
+tqdm
