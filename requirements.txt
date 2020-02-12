@@ -1,5 +1,5 @@
 asyncio
 aiohttp
-PIL
+Pillow
 imageio
 opencv-contrib-python
